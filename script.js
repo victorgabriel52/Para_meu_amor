@@ -1,4 +1,4 @@
-// Criar vários corações espalhados
+// Criar corações espalhados aleatoriamente
 function espalharCoracoes() {
     for (let i = 0; i < 40; i++) {
         const heart = document.createElement("div");
